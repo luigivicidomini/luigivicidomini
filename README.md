@@ -76,7 +76,7 @@ I am a Computer Engineer graduated from the **University of Salerno (UNISA)**, d
 ![Radxa RK3588](https://img.shields.io/badge/Radxa%20RK3588-059669?style=flat)
 ![Radxa Orion O6](https://img.shields.io/badge/Radxa%20Orion%20O6-0284C7?style=flat)
 ![Milk-V Duo 256m](https://img.shields.io/badge/Milk--V%20Duo%20256m-773AED?style=flat)
-![Lichee RV Nano](https://img.shields.io/badge/Lichee%20RV%20Nano-DC2626?style=flat)
+![Lichee RV Nano](https://img.shields.io/badge/LicheeRV%20Nano-DC2626?style=flat)
 
 #### 🐋 Containers & Virtualization
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
