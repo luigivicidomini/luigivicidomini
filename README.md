@@ -29,7 +29,7 @@ I am a Computer Engineer graduated from the **University of Salerno (UNISA)**, d
 > * *Tech Stack:* `ROS` `MoveIt` `Robosuite` `PyTorch` `OpenCV` `Python`
 
 > ### 📱 LookAround
-> **BSc Thesis Project & Apple Foundation Academy Alumni**
+> **BSc Thesis Project & Apple Foundation Program Alumni**
 > * An assistive iOS application designed to enhance autonomy for blind and visually impaired individuals.
 > * Implemented camera-based barcode scanning connected to a nutritional database to process and audibly speak out product details to the user.
 > * Developed an on-device OCR page reader feature capable of scanning and instantly reading books or documents aloud via text-to-speech.
