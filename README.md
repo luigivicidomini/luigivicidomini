@@ -21,6 +21,8 @@ I am a Computer Engineer graduated from the **University of Salerno (UNISA)**, d
 
 ### 🚀 Featured Projects
 
+> 📚 The **group** projects I completed during my university career are available in the dedicated repository: [**Master-Degree-Projects**](https://github.com/Master-Degree-Projects) — my individual projects can be found on this profile.
+
 > ### 🤖 Video-Conditioned Multi-Task Robotic System
 > **MSc Thesis Project | AI & Intelligent Robotics**
 > * Developed an end-to-end multi-task robotic framework where tasks are given via human demonstration videos. 
